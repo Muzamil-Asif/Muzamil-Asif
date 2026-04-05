@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Muzammil Aif</h1>
 <h3 align="center">A passionate Artificial Intelligence Developer from Pakistan.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muzamil-aif&label=Profile%20views&color=0e75b6&style=flat" alt="muzamil-aif" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muzamil-aif&label=Profile%20views&color=0e75b6&style=flat" alt="muzammil-aif" /> </p>
 
 <p align="left"> <a href="https://twitter.com/10_graphics" target="blank"><img src="https://img.shields.io/twitter/follow/10_graphics?logo=twitter&style=for-the-badge" alt="10_graphics" /></a> </p>
 
-- 🌱 I’m currently learning **AI Creatives**
+- 🌱 I’m currently focused on **AI Engineering**
 
-- 💬 Ask me about **AI, Python, Graphic Designs**
+- 💬 Ask me about **Python, Django, Artificial Intelligence*
 
-- 📫 How to reach me **0010.graphics@gmail.com**
+- 📫 How to reach me **sheikhmuzammil.419@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1A1Yh-6zus5MgOLL4l9DVQr8X0YihCHMY/view?usp=drive_link5](https://drive.google.com/file/d/1A1Yh-6zus5MgOLL4l9DVQr8X0YihCHMY/view?usp=drive_link5)
 
