@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muzamil-aif&label=Profile%20views&color=0e75b6&style=flat" alt="muzammil-aif" /> </p>
 
-<p align="left"> <a href="www.linkedin.com/in/muzammil-asif-7230bb254" target="blank"><img src="https://img.shields.io/twitter/follow/10_graphics?logo=linkedin&style=for-the-badge" alt="Muzammil Asif" /></a> </p>
-
 - 🌱 I’m currently focused on **AI Engineering**
 
-- 💬 Ask me about **Python, Django, Artificial Intelligence*
+- 💬 Ask me about *Python, Django, Artificial Intelligence*
 
 - 📫 How to reach me **sheikhmuzammil.419@gmail.com**
 
